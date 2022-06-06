@@ -1,7 +1,7 @@
 {
   "name": "http-server-example",
   "version": "1.0.0",
-  "description": "example hhtp-server for biso-0105-18",
+  "description": "example hhtp-server for biso-01_kosyuk",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
