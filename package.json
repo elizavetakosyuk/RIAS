@@ -12,7 +12,7 @@
     "http-server",
     "mirea"
   ],
-  "author": "leoska",
+  "author": "kosyuk",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.3"
